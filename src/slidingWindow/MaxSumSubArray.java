@@ -1,6 +1,6 @@
 package slidingWindow;
 public class MaxSumSubArray {
-    //
+    //https://www.youtube.com/watch?v=jhW7VwP2Djw&t=694s
     public static int subArray(int arr[], int k) {
         int wsum = 0;
         int maxSum = Integer.MIN_VALUE;
